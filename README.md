@@ -14,6 +14,6 @@
 5. Творческий подход к выполнению задач
 6. Умение работать в команде
 
-![logo](img/https://github.com/RudachenkoRoman/git-final-homework/blob/master/img/logo.jpg)
+![logo](img/logo.jpg)
 
 
